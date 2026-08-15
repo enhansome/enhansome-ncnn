@@ -1,10 +1,10 @@
 # Awesome-NCNN with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,740 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,084 | 🐛 100 | 📅 2026-06-30
 
-[ncnn](https://github.com/tencent/ncnn) ⭐ 23,698 | 🐛 1,215 | 🌐 C++ | 📅 2026-08-13 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 748 | 🐛 0 | 📅 2023-01-05 lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
+[ncnn](https://github.com/tencent/ncnn) ⭐ 23,699 | 🐛 1,217 | 🌐 C++ | 📅 2026-08-13 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 748 | 🐛 0 | 📅 2023-01-05 lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
 
-[ncnn](https://github.com/tencent/ncnn) ⭐ 23,698 | 🐛 1,215 | 🌐 C++ | 📅 2026-08-13 是一个为手机端极致优化的高性能神经网络前向计算框架。[本仓库](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 748 | 🐛 0 | 📅 2023-01-05 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！
+[ncnn](https://github.com/tencent/ncnn) ⭐ 23,699 | 🐛 1,217 | 🌐 C++ | 📅 2026-08-13 是一个为手机端极致优化的高性能神经网络前向计算框架。[本仓库](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 748 | 🐛 0 | 📅 2023-01-05 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！
 
 ## Contents
 
@@ -79,19 +79,19 @@ General object detection, face detection (and landmark) projects on Android plat
 
 ### Super Resolution
 
-* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 16,890 | 🐛 93 | 🌐 C++ | 📅 2026-08-08 Photo/Video/GIF enlargement and Video frame interpolation using machine learning (使用NCNN的图像超分辨率及视频插帧软件)
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 16,888 | 🐛 93 | 🌐 C++ | 📅 2026-08-08 Photo/Video/GIF enlargement and Video frame interpolation using machine learning (使用NCNN的图像超分辨率及视频插帧软件)
 * [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) ⭐ 3,447 | 🐛 82 | 🌐 C++ | 📅 2026-04-13 waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
-* [realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) ⭐ 1,214 | 🐛 41 | 🌐 C | 📅 2023-03-12 ncnn implementation of Real-World Super-Resolution via Kernel Estimation and Noise Injection super resolution.
-* [Real-CUGAN-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan#real-cugan-ncnn-vulkan) ⭐ 917 | 🐛 33 | 🌐 C | 📅 2023-03-12 A two dimensions anime super resolution project. (二次元动漫超分项目) ncnn implementation of Real-CUGAN converter. Runs fast on Intel / AMD / Nvidia with Vulkan API.
-* [srmd-ncnn-vulkan](https://github.com/nihui/srmd-ncnn-vulkan) ⭐ 351 | 🐛 7 | 🌐 C | 📅 2022-07-28 ncnn implementation of SRMD super resolution.
+* [realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) ⭐ 1,213 | 🐛 41 | 🌐 C | 📅 2023-03-12 ncnn implementation of Real-World Super-Resolution via Kernel Estimation and Noise Injection super resolution.
+* [Real-CUGAN-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan#real-cugan-ncnn-vulkan) ⭐ 915 | 🐛 33 | 🌐 C | 📅 2023-03-12 A two dimensions anime super resolution project. (二次元动漫超分项目) ncnn implementation of Real-CUGAN converter. Runs fast on Intel / AMD / Nvidia with Vulkan API.
+* [srmd-ncnn-vulkan](https://github.com/nihui/srmd-ncnn-vulkan) ⭐ 350 | 🐛 7 | 🌐 C | 📅 2022-07-28 ncnn implementation of SRMD super resolution.
 * [vapoursynth-waifu2x-ncnn-vulkan](https://github.com/Nlzy/vapoursynth-waifu2x-ncnn-vulkan) ⚠️ Archived Waifu2x filter for VapourSynth
 * [waifu2x-ncnn-vulkan-python](https://github.com/tonquer/waifu2x-ncnn-vulkan-python) ⭐ 57 | 🐛 3 | 🌐 C++ | 📅 2025-10-21 Exporting pyd for python based on waifu2x-ncnn-vulkan (修改waifu2x-ncnn-vulkan项目，导出pyd给python使用)
 * [VapourSynth-SRMD-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan) ⭐ 24 | 🐛 3 | 🌐 C++ | 📅 2023-02-05 SRMD super resolution for VapourSynth
-* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 20,924 | 🐛 129 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
+* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 20,932 | 🐛 129 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
 
 ### Video Frame Interpolation
 
-* [flowframes](https://github.com/n00mkrad/flowframes) ⭐ 2,020 | 🐛 179 | 🌐 Python | 📅 2026-05-20 Flowframes Windows GUI for video interpolation - Supports DAIN NCNN as well as RIFE Pytorch and NCNN implementations.
+* [flowframes](https://github.com/n00mkrad/flowframes) ⭐ 2,019 | 🐛 179 | 🌐 Python | 📅 2026-05-20 Flowframes Windows GUI for video interpolation - Supports DAIN NCNN as well as RIFE Pytorch and NCNN implementations.
 
 * [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) ⭐ 1,078 | 🐛 47 | 🌐 C | 📅 2024-01-02 ncnn implementation of RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
 
@@ -189,13 +189,13 @@ Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn�
 
 * [NcnnDotNet](https://github.com/takuya-takeuchi/NcnnDotNet) ⭐ 94 | 🐛 4 | 🌐 C# | 📅 2023-01-02 ncnn .NET wrapper written in C++ and C# for Windows, MacOS and Linux
 
-* [pyncnn](https://github.com/caishanli/pyncnn) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2021-01-07 python wrapper of ncnn with pybind11 (Note: now updated in [ncnn official](https://github.com/tencent/ncnn) ⭐ 23,698 | 🐛 1,215 | 🌐 C++ | 📅 2026-08-13 repo's python directory)
+* [pyncnn](https://github.com/caishanli/pyncnn) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2021-01-07 python wrapper of ncnn with pybind11 (Note: now updated in [ncnn official](https://github.com/tencent/ncnn) ⭐ 23,699 | 🐛 1,217 | 🌐 C++ | 📅 2026-08-13 repo's python directory)
 
 * [ros\_ncnn](https://github.com/nilseuropa/ros_ncnn) ⭐ 65 | 🐛 1 | 🌐 C++ | 📅 2021-03-14 ROS wrapper for NCNN neural inference framework
 
 * [ncnn-fortran](https://github.com/mizu-bai/ncnn-fortran) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2022-12-18 Call ncnn from Fortran via mix compiling
 
-* [ncnn-lite](https://github.com/nullptr-leo/ncnn-lite) NCNN lite without C++ support (Note: There is [ncnn C API](https://github.com/Tencent/ncnn/blob/master/src/c_api.h) ⭐ 23,698 | 🐛 1,215 | 🌐 C++ | 📅 2026-08-13 now)
+* [ncnn-lite](https://github.com/nullptr-leo/ncnn-lite) NCNN lite without C++ support (Note: There is [ncnn C API](https://github.com/Tencent/ncnn/blob/master/src/c_api.h) ⭐ 23,699 | 🐛 1,217 | 🌐 C++ | 📅 2026-08-13 now)
 
 ## Optimization
 
@@ -217,4 +217,4 @@ Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
