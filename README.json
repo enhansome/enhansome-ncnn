@@ -19,7 +19,7 @@
             "last_commit": "2023-12-29T15:39:12Z",
             "owner": "Linzaer",
             "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-            "stars": 7539
+            "stars": 7540
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2022-06-21T22:46:24Z",
             "owner": "polarisZhao",
             "repo": "PFLD-pytorch",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-08-16T01:13:46Z",
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 16890
+            "stars": 16893
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-04-13T16:04:51Z",
             "owner": "nihui",
             "repo": "waifu2x-ncnn-vulkan",
-            "stars": 3447
+            "stars": 3449
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2026-05-20T22:21:51Z",
             "owner": "n00mkrad",
             "repo": "flowframes",
-            "stars": 2020
+            "stars": 2022
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2024-01-02T06:05:10Z",
             "owner": "nihui",
             "repo": "rife-ncnn-vulkan",
-            "stars": 1078
+            "stars": 1079
           }
         },
         {
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:27:03.804Z",
+    "last_updated": "2026-08-17T19:34:34.608Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
     "enhanced_repository": "enhansome/enhansome-ncnn",
