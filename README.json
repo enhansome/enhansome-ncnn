@@ -19,7 +19,7 @@
             "last_commit": "2023-12-29T15:39:12Z",
             "owner": "Linzaer",
             "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-            "stars": 7540
+            "stars": 7541
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-08-08T02:52:55Z",
             "owner": "RangiLyu",
             "repo": "nanodet",
-            "stars": 6249
+            "stars": 6251
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-04-13T16:04:51Z",
             "owner": "nihui",
             "repo": "waifu2x-ncnn-vulkan",
-            "stars": 3449
+            "stars": 3450
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2023-03-12T03:13:34Z",
             "owner": "nihui",
             "repo": "realcugan-ncnn-vulkan",
-            "stars": 915
+            "stars": 916
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2024-01-02T06:05:10Z",
             "owner": "nihui",
             "repo": "rife-ncnn-vulkan",
-            "stars": 1079
+            "stars": 1081
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-05-18T09:55:53Z",
             "owner": "DayBreak-u",
             "repo": "chineseocr_lite",
-            "stars": 12331
+            "stars": 12333
           }
         },
         {
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:34:34.608Z",
+    "last_updated": "2026-08-18T19:33:52.717Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
     "enhanced_repository": "enhansome/enhansome-ncnn",
