@@ -17,7 +17,7 @@
                 "last_commit": "2023-12-29T15:39:12Z",
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7541
+                "stars": 7542
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-08T02:52:55Z",
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6251
+                "stars": 6252
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-16T01:13:46Z",
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16896
+                "stars": 16900
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-05-20T22:21:51Z",
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2023
+                "stars": 2024
               }
             },
             {
@@ -1186,7 +1186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:33:05.394Z",
+    "last_updated": "2026-08-20T19:37:51.435Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_id": 271256743,
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
