@@ -4,6 +4,64 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "ncnn",
+          "description": "is a high-performance neural network inference framework optimized for the mobile platform. This repo lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95879426,
+            "language": "C++",
+            "last_commit": "2026-08-18T08:40:18Z",
+            "owner": "Tencent",
+            "repo": "ncnn",
+            "stars": 23738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncnn",
+          "description": "是一个为手机端极致优化的高性能神经网络前向计算框架。本仓库 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95879426,
+            "language": "C++",
+            "last_commit": "2026-08-18T08:40:18Z",
+            "owner": "Tencent",
+            "repo": "ncnn",
+            "stars": 23738
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ClothingTransfer-NCNN",
+              "description": "ClothingTransfer/Virtual-Try-On with ncnn. 基于ncnn的服装迁移/虚拟试穿",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438662501,
+                "language": "C++",
+                "last_commit": "2023-05-07T11:03:23Z",
+                "owner": "EdVince",
+                "repo": "ClothingTransfer-NCNN",
+                "stars": 268
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fancy Applications"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,7 +75,7 @@
                 "last_commit": "2023-12-29T15:39:12Z",
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7543
+                "stars": 7542
               }
             },
             {
@@ -77,7 +135,7 @@
                 "last_commit": "2026-05-27T06:10:18Z",
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
-                "stars": 422
+                "stars": 421
               }
             },
             {
@@ -339,7 +397,7 @@
                 "last_commit": "2026-08-16T01:13:46Z",
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16907
+                "stars": 16913
               }
             },
             {
@@ -496,7 +554,7 @@
                 "last_commit": "2024-01-02T06:05:10Z",
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1082
+                "stars": 1083
               }
             },
             {
@@ -1183,10 +1241,73 @@
         }
       ],
       "title": "Wrappers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ncnn-with-cuda",
+          "description": "Tencent NCNN with added CUDA support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279161099,
+            "language": "C++",
+            "last_commit": "2021-01-18T00:39:12Z",
+            "owner": "atanmarko",
+            "repo": "ncnn-with-cuda",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Optimization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ncnnqat",
+          "description": "quantize aware training package for NCNN on pytorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379188745,
+            "language": "Python",
+            "last_commit": "2021-07-27T06:59:40Z",
+            "owner": "ChenShisen",
+            "repo": "ncnnqat",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Training"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ncnn_breakdown - by All Star",
+          "description": "A breakdown of NCNN (学习ncnn的过程的一个记录)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319803310,
+            "language": "C++",
+            "last_commit": "2020-12-28T06:30:44Z",
+            "owner": "Zhengtq",
+            "repo": "ncnn_breakdown",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Source Analysis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:28:46.670Z",
+    "last_updated": "2026-08-24T14:16:41.394Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_id": 271256743,
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
