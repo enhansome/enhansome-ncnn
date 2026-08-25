@@ -12,10 +12,10 @@
             "archived": false,
             "id": 95879426,
             "language": "C++",
-            "last_commit": "2026-08-18T08:40:18Z",
+            "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23738
+            "stars": 23740
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 95879426,
             "language": "C++",
-            "last_commit": "2026-08-18T08:40:18Z",
+            "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23738
+            "stars": 23740
           }
         }
       ],
@@ -904,7 +904,7 @@
                 "last_commit": "2026-05-18T09:55:53Z",
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12336
+                "stars": 12337
               }
             },
             {
@@ -1307,7 +1307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:36:25.397Z",
+    "last_updated": "2026-08-25T06:11:01.471Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_id": 271256743,
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
