@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23740
+            "stars": 23742
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23740
+            "stars": 23742
           }
         }
       ],
@@ -90,7 +90,7 @@
                 "last_commit": "2024-08-08T02:52:55Z",
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6251
+                "stars": 6252
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-16T01:13:46Z",
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16914
+                "stars": 16916
               }
             },
             {
@@ -904,7 +904,7 @@
                 "last_commit": "2026-05-18T09:55:53Z",
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12337
+                "stars": 12339
               }
             },
             {
@@ -1307,7 +1307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:01.471Z",
+    "last_updated": "2026-08-25T19:38:44.494Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_id": 271256743,
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
