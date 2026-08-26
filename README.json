@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23742
+            "stars": 23752
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23742
+            "stars": 23752
           }
         }
       ],
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-16T01:13:46Z",
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16916
+                "stars": 16920
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-04-13T16:04:51Z",
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3455
+                "stars": 3456
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2023-03-12T03:13:34Z",
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 916
+                "stars": 917
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2026-05-20T22:21:51Z",
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2029
+                "stars": 2030
               }
             },
             {
@@ -1307,7 +1307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:38:44.494Z",
+    "last_updated": "2026-08-26T21:46:19.665Z",
     "original_repository": "zchrissirhcz/awesome-ncnn",
     "original_repository_id": 271256743,
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
