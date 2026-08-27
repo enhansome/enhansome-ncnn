@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23752
+            "stars": 23755
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23752
+            "stars": 23755
           }
         }
       ],
@@ -904,7 +904,7 @@
                 "last_commit": "2026-05-18T09:55:53Z",
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12339
+                "stars": 12338
               }
             },
             {
@@ -1307,9 +1307,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:46:19.665Z",
-    "original_repository": "zchrissirhcz/awesome-ncnn",
-    "original_repository_id": 271256743,
+    "last_updated": "2026-08-27T11:57:33.297Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 271256743,
+      "language": null,
+      "last_commit": "2023-01-05T02:33:23Z",
+      "owner": "zchrissirhcz",
+      "repo": "awesome-ncnn",
+      "stars": 748
+    },
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
     "enhanced_repository": "enhansome/enhansome-ncnn",
     "enhanced_repository_description": null,
