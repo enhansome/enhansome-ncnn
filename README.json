@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23755
+            "stars": 23756
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23755
+            "stars": 23756
           }
         }
       ],
@@ -53,7 +53,7 @@
                 "last_commit": "2023-05-07T11:03:23Z",
                 "owner": "EdVince",
                 "repo": "ClothingTransfer-NCNN",
-                "stars": 268
+                "stars": 269
               }
             }
           ],
@@ -105,7 +105,7 @@
                 "last_commit": "2022-05-17T11:12:04Z",
                 "owner": "cmdbug",
                 "repo": "YOLOv5_NCNN",
-                "stars": 1572
+                "stars": 1573
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-16T01:13:46Z",
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16920
+                "stars": 16923
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-04-13T16:04:51Z",
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3456
+                "stars": 3459
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2023-03-12T03:13:34Z",
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 917
+                "stars": 919
               }
             },
             {
@@ -457,7 +457,7 @@
                 "last_commit": "2022-07-28T13:50:29Z",
                 "owner": "nihui",
                 "repo": "srmd-ncnn-vulkan",
-                "stars": 350
+                "stars": 351
               }
             },
             {
@@ -554,7 +554,7 @@
                 "last_commit": "2024-01-02T06:05:10Z",
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1083
+                "stars": 1084
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2023-10-29T12:40:22Z",
                 "owner": "nihui",
                 "repo": "dain-ncnn-vulkan",
-                "stars": 544
+                "stars": 545
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2022-07-28T14:20:10Z",
                 "owner": "nihui",
                 "repo": "cain-ncnn-vulkan",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -1307,7 +1307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:33.297Z",
+    "last_updated": "2026-08-28T03:32:19.481Z",
     "original_repository_info": {
       "archived": false,
       "id": 271256743,
