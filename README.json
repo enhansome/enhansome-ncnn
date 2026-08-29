@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+            "homepage": null,
             "id": 95879426,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:35:36Z",
+            "open_issues": 1228,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23762
+            "stars": 23764,
+            "topics": [
+              "android",
+              "arm-neon",
+              "artificial-intelligence",
+              "caffe",
+              "darknet",
+              "deep-learning",
+              "high-preformance",
+              "inference",
+              "ios",
+              "keras",
+              "mlir",
+              "mxnet",
+              "ncnn",
+              "neural-network",
+              "onnx",
+              "pytorch",
+              "riscv",
+              "simd",
+              "tensorflow",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+            "homepage": null,
             "id": 95879426,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:35:36Z",
+            "open_issues": 1228,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23762
+            "stars": 23764,
+            "topics": [
+              "android",
+              "arm-neon",
+              "artificial-intelligence",
+              "caffe",
+              "darknet",
+              "deep-learning",
+              "high-preformance",
+              "inference",
+              "ios",
+              "keras",
+              "mlir",
+              "mxnet",
+              "ncnn",
+              "neural-network",
+              "onnx",
+              "pytorch",
+              "riscv",
+              "simd",
+              "tensorflow",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         }
@@ -50,12 +102,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡",
+                "homepage": null,
                 "id": 438662501,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-05-07T11:03:23Z",
+                "open_issues": 9,
                 "owner": "EdVince",
                 "repo": "ClothingTransfer-NCNN",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "ctnet",
+                  "densepose",
+                  "lipjppnet",
+                  "ncnn",
+                  "openpose",
+                  "tryon"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -73,12 +137,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)",
+                "homepage": null,
                 "id": 214118425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-29T15:39:12Z",
+                "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7542
+                "stars": 7542,
+                "topics": [
+                  "arm",
+                  "face-detection",
+                  "inference",
+                  "mnn",
+                  "ncnn"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -89,12 +164,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+                "homepage": null,
                 "id": 305316768,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-08T02:52:55Z",
+                "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6252
+                "stars": 6252,
+                "topics": [
+                  "anchor-free",
+                  "android",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "efficientnet",
+                  "mnn",
+                  "model-zoo",
+                  "nanodet",
+                  "nanodet-plus",
+                  "ncnn",
+                  "object-detection",
+                  "openvino",
+                  "pytorch",
+                  "repvgg",
+                  "shufflenet"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -105,12 +201,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍅 Deploy ncnn on mobile phones. Support Android and iOS. 移动端ncnn部署，支持Android与iOS。",
+                "homepage": null,
                 "id": 277967918,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-17T11:12:04Z",
+                "open_issues": 64,
                 "owner": "cmdbug",
                 "repo": "YOLOv5_NCNN",
-                "stars": 1573
+                "stars": 1573,
+                "topics": [
+                  "android",
+                  "chineseocr-lite",
+                  "dbface",
+                  "detection",
+                  "ios",
+                  "landmark106",
+                  "mobilenet",
+                  "mobilenetv3",
+                  "nanodet",
+                  "ncnn",
+                  "object-detection",
+                  "openpose",
+                  "simple-pose",
+                  "yolact",
+                  "yolo",
+                  "yolofastest",
+                  "yolov3",
+                  "yolov4",
+                  "yolov5"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -121,12 +242,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PFLD pytorch Implementation",
+                "homepage": null,
                 "id": 204248628,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-21T22:46:24Z",
+                "open_issues": 48,
                 "owner": "polarisZhao",
                 "repo": "PFLD-pytorch",
-                "stars": 874
+                "stars": 874,
+                "topics": [
+                  "face-landmark-detection",
+                  "ncnn",
+                  "pfld",
+                  "pfld-ncnn",
+                  "pfld-pytorch",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -137,12 +270,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ncnn android nanodet lightweight object detection",
+                "homepage": null,
                 "id": 347101655,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-05-27T06:10:18Z",
+                "open_issues": 13,
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "android",
+                  "lightweight",
+                  "ncnn",
+                  "object-detection",
+                  "realtime"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -153,12 +297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real time yolox Android demo by ncnn",
+                "homepage": null,
                 "id": 387715386,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-05-25T01:09:17Z",
+                "open_issues": 17,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn-android-yolox",
-                "stars": 319
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -169,12 +318,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "加入关键点的darknet训练框架，轻量级的人脸检测，支持ncnn推理",
+                "homepage": null,
                 "id": 264668907,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-29T07:16:23Z",
+                "open_issues": 27,
                 "owner": "DayBreak-u",
                 "repo": "darknet_face_with_landmark",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "darknet",
+                  "facedetect",
+                  "landmark",
+                  "lightmode",
+                  "ncnn",
+                  "yolov3"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -185,12 +346,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLOv5 C++ Implementation on Android using NCNN framework",
+                "homepage": null,
                 "id": 272343815,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-16T15:08:19Z",
+                "open_issues": 16,
                 "owner": "sunnyden",
                 "repo": "YOLOV5_NCNN_Android",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "android",
+                  "ncnn",
+                  "object-detection",
+                  "yolov5"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -201,12 +372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android hand detect and pose estimation by ncnn",
+                "homepage": null,
                 "id": 348729801,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-12-01T08:37:36Z",
+                "open_issues": 5,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_nanodet_hand",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -217,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ API of the LFFD with ncnn",
+                "homepage": null,
                 "id": 206478777,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-03-20T07:01:19Z",
+                "open_issues": 5,
                 "owner": "SyGoing",
                 "repo": "LFFD-with-ncnn",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -233,12 +414,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PCN based on ncnn framework.",
+                "homepage": null,
                 "id": 154592001,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-12-21T08:10:33Z",
+                "open_issues": 0,
                 "owner": "HansRen1024",
                 "repo": "PCN-ncnn",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "cnn",
+                  "face-detection",
+                  "ncnn",
+                  "pcn"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -249,12 +440,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Iris landmarks localization.",
+                "homepage": null,
                 "id": 255049419,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-24T13:18:08Z",
+                "open_issues": 1,
                 "owner": "digital-nomad-cheng",
                 "repo": "Iris_Landmarks_PyTorch",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "iris-dataset",
+                  "iris-landmarks",
+                  "iris-recognition",
+                  "ncnn"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -265,12 +468,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Face mask detection on Raspberry Pi 4",
+                "homepage": "https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html",
                 "id": 274450628,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-04-12T14:39:14Z",
+                "open_issues": 3,
                 "owner": "Qengineering",
                 "repo": "Face-Mask-Detection-Raspberry-Pi-64-bits",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "aarch64",
+                  "armv8",
+                  "cpp",
+                  "deep-learning",
+                  "face-detection",
+                  "face-mask",
+                  "face-mask-detection",
+                  "face-recognition",
+                  "high-fps",
+                  "ncnn",
+                  "ncnn-framework",
+                  "paddle-lite",
+                  "paddlepaddle",
+                  "raspberry-pi-4",
+                  "ssd-model",
+                  "ubuntu"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -281,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ncnn在Android的一个测试，包含了人脸检测(face detection)，人脸属性(face attributes)，人脸识别(face recognition)。车辆检测(Vehicle detection)，车牌检测(plate detection)，车牌识别(plate recognition)；人头检测(head detection)的流程",
+                "homepage": null,
                 "id": 263037384,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-05-14T08:13:01Z",
+                "open_issues": 4,
                 "owner": "791136190",
                 "repo": "ncnn_android_face_vehicle",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -297,12 +527,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "移动端实时疲劳驾驶检测",
+                "homepage": null,
                 "id": 217885390,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-05-31T08:52:40Z",
+                "open_issues": 1,
                 "owner": "hzq-zjm",
                 "repo": "RobotVision2",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "cortex-a53",
+                  "fatigue-detection",
+                  "mtcnn",
+                  "ncnn",
+                  "perclos"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -313,12 +554,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADAS app, for driving safty .YOLOX tiny + lane detection on Android with 15 FPS!",
+                "homepage": null,
                 "id": 337431093,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-10T13:04:12Z",
+                "open_issues": 7,
                 "owner": "youkpan",
                 "repo": "hayoou_safe_driving_android",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "adas",
+                  "adas-systems",
+                  "android",
+                  "android-app",
+                  "lane",
+                  "lane-detect",
+                  "lane-detection",
+                  "ncnn",
+                  "safe-driving",
+                  "yolo",
+                  "yolov4-tiny",
+                  "yolox",
+                  "yolox-tiny"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -329,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 266267085,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-06-07T14:19:07Z",
+                "open_issues": 0,
                 "owner": "yuanluw",
                 "repo": "DBface_ncnn_demo",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -345,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ncnn for android face detector",
+                "homepage": null,
                 "id": 254370788,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2020-04-11T02:11:22Z",
+                "open_issues": 0,
                 "owner": "oaup",
                 "repo": "ncnn-android-ultraface",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -361,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270931023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-09T07:23:08Z",
+                "open_issues": 1,
                 "owner": "immarioo",
                 "repo": "centernet_ncnn",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -377,12 +652,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the C++ version of thundernet with ncnn ",
+                "homepage": null,
                 "id": 340609740,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-02-20T12:02:27Z",
+                "open_issues": 1,
                 "owner": "DayBreak-u",
                 "repo": "thundernet_ncnn",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "ncnn",
+                  "thundernet"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -393,12 +676,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "using ncnn to deploy centerface on Android",
+                "homepage": null,
                 "id": 268810232,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-06-05T02:17:15Z",
+                "open_issues": 0,
                 "owner": "JuZiSYJ",
                 "repo": "centerface-ncnn",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "android",
+                  "centerface",
+                  "centernet",
+                  "facedetection",
+                  "ncnn"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -416,12 +710,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",
+                "homepage": "https://patreon.com/aaronfeng",
                 "id": 235070415,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-16T01:13:46Z",
+                "open_issues": 93,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16925
+                "stars": 16926,
+                "topics": [
+                  "anime",
+                  "anime4k",
+                  "esrgan",
+                  "frame-interpolation",
+                  "image-enlarger",
+                  "ncnn",
+                  "noise-reduction",
+                  "rtx-video-super-resolution",
+                  "rtx-vsr",
+                  "super-resolution",
+                  "upscaling",
+                  "video",
+                  "video-enlarger",
+                  "video-frame-interpolation",
+                  "video-interpolation",
+                  "video-processing",
+                  "video-super-resolution",
+                  "vulkan",
+                  "waifu2x",
+                  "waifu2x-ncnn-vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -432,12 +752,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan",
+                "homepage": null,
                 "id": 179304752,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-13T16:04:51Z",
+                "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3460
+                "stars": 3460,
+                "topics": [
+                  "amd",
+                  "gpu",
+                  "intel",
+                  "linux",
+                  "macos",
+                  "ncnn",
+                  "nvidia",
+                  "vulkan",
+                  "waifu2x",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -448,12 +784,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RealSR super resolution implemented with ncnn library",
+                "homepage": null,
                 "id": 266992649,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-03-12T03:03:53Z",
+                "open_issues": 41,
                 "owner": "nihui",
                 "repo": "realsr-ncnn-vulkan",
-                "stars": 1213
+                "stars": 1213,
+                "topics": [
+                  "amd",
+                  "gpu",
+                  "intel",
+                  "ncnn",
+                  "nvidia",
+                  "realsr",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -464,12 +813,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan",
+                "homepage": null,
                 "id": 458695452,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-03-12T03:13:34Z",
+                "open_issues": 33,
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 919
+                "stars": 919,
+                "topics": [
+                  "amd",
+                  "gpu",
+                  "intel",
+                  "linux",
+                  "macos",
+                  "ncnn",
+                  "nvidia",
+                  "realcugan",
+                  "vulkan",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -480,12 +845,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SRMD super resolution implemented with ncnn library",
+                "homepage": null,
                 "id": 241619197,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-07-28T13:50:29Z",
+                "open_issues": 7,
                 "owner": "nihui",
                 "repo": "srmd-ncnn-vulkan",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "amd",
+                  "gpu",
+                  "intel",
+                  "ncnn",
+                  "nvidia",
+                  "srmd",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -496,12 +874,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Waifu2x filter for VapourSynth",
+                "homepage": null,
                 "id": 223316568,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-08-14T15:44:22Z",
+                "open_issues": 5,
                 "owner": "nlzy",
                 "repo": "vapoursynth-waifu2x-ncnn-vulkan",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -512,12 +895,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "waifu2x-ncnn-vulkan-python, use nihui/waifu2x-ncnn-vulkan",
+                "homepage": null,
                 "id": 347913833,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-10-21T01:31:40Z",
+                "open_issues": 3,
                 "owner": "tonquer",
                 "repo": "sr-vulkan",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "python",
+                  "vulkan",
+                  "waifu2x",
+                  "waifu2x-ncnn-vulkan",
+                  "waifu2x-ncnn-vulkan-python",
+                  "waifu2x-vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -528,12 +923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SRMD super resolution plugin for VapourSynth implemented with ncnn library",
+                "homepage": null,
                 "id": 274454033,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-02-05T16:41:53Z",
+                "open_issues": 3,
                 "owner": "Kiyamou",
                 "repo": "VapourSynth-SRMD-ncnn-Vulkan",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -544,12 +944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG",
+                "homepage": null,
                 "id": 373311357,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2022-08-07T13:13:40Z",
+                "open_issues": 2,
                 "owner": "media2x",
                 "repo": "waifu2x-ncnn-vulkan-python",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -567,12 +972,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)",
+                "homepage": null,
                 "id": 315330275,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-20T22:21:51Z",
+                "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2032
+                "stars": 2032,
+                "topics": [
+                  "dain",
+                  "gui",
+                  "ncnn",
+                  "pytorch",
+                  "rife",
+                  "video-interpolation"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -583,12 +1000,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation implemented with ncnn library",
+                "homepage": null,
                 "id": 315043859,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-01-02T06:05:10Z",
+                "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1084
+                "stars": 1084,
+                "topics": [
+                  "gpu",
+                  "ncnn",
+                  "rife",
+                  "video-interpolation",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -599,12 +1027,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DAIN, Depth-Aware Video Frame Interpolation implemented with ncnn library",
+                "homepage": null,
                 "id": 289817971,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-10-29T12:40:22Z",
+                "open_issues": 27,
                 "owner": "nihui",
                 "repo": "dain-ncnn-vulkan",
-                "stars": 545
+                "stars": 545,
+                "topics": [
+                  "dain",
+                  "gpu",
+                  "ncnn",
+                  "video-interpolation",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -615,12 +1054,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIN, Channel Attention Is All You Need for Video Frame Interpolation implemented with ncnn library",
+                "homepage": null,
                 "id": 293574972,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-07-28T14:20:10Z",
+                "open_issues": 8,
                 "owner": "nihui",
                 "repo": "cain-ncnn-vulkan",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "cain",
+                  "gpu",
+                  "ncnn",
+                  "video-interpolation",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -631,12 +1081,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python FFI of nihui/rife-ncnn-vulkan achieved with SWIG",
+                "homepage": null,
                 "id": 360946753,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2022-10-29T15:23:13Z",
+                "open_issues": 5,
                 "owner": "media2x",
                 "repo": "rife-ncnn-vulkan-python",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "python",
+                  "rife",
+                  "rife-ncnn-vulkan",
+                  "swig"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -654,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android MoveNet pose estimation by ncnn",
+                "homepage": null,
                 "id": 410224011,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-05-08T16:50:20Z",
+                "open_issues": 7,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_Android_MoveNet",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -670,12 +1135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Realtime  Pose Estimation NCNN  ONNX",
+                "homepage": null,
                 "id": 249994347,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-04-29T06:25:37Z",
+                "open_issues": 1,
                 "owner": "ZtoYtoQ",
                 "repo": "NCNN-PoseEstimation",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -686,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NCNN  Android  SinglePoseEstimation Demo",
+                "homepage": null,
                 "id": 258962681,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-04-26T08:26:35Z",
+                "open_issues": 1,
                 "owner": "ZtoYtoQ",
                 "repo": "NCNN_Android_SinglePoseEstimation",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -702,12 +1177,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimized pose detector inference for edge devices",
+                "homepage": null,
                 "id": 412368702,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-23T07:34:49Z",
+                "open_issues": 1,
                 "owner": "defi0x1",
                 "repo": "pose-detect-optimizer",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "face-pose",
+                  "head-pose",
+                  "head-pose-estimation",
+                  "ncnn",
+                  "optimization"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -725,12 +1211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 395590044,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-11-22T06:01:43Z",
+                "open_issues": 8,
                 "owner": "xiongzhu666",
                 "repo": "Sky-Segmentation-and-Post-processing",
-                "stars": 239
+                "stars": 239,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -741,12 +1232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android human segmentation by ncnn",
+                "homepage": null,
                 "id": 384361284,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-08-23T00:16:04Z",
+                "open_issues": 12,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_Android_RobustVideoMatting",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -757,12 +1253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the C++ version of solov2 with ncnn",
+                "homepage": null,
                 "id": 354432491,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-06-27T12:33:56Z",
+                "open_issues": 8,
                 "owner": "DayBreak-u",
                 "repo": "SOLOV2_ncnn",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -773,12 +1274,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️Real-time portrait segmentation ",
+                "homepage": null,
                 "id": 352683958,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-04-21T15:22:17Z",
+                "open_issues": 3,
                 "owner": "leeys888",
                 "repo": "ncnn-portrait-segmentation",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "ncnn",
+                  "portrait-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -789,12 +1298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android hair segmentation demo by ncnn",
+                "homepage": null,
                 "id": 365457359,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-07-09T07:42:52Z",
+                "open_issues": 2,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_Android_hair",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -805,12 +1319,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The deeplabv3+ person segmentation android example.",
+                "homepage": null,
                 "id": 324803025,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-02-01T10:00:26Z",
+                "open_issues": 5,
                 "owner": "runrunrun1994",
                 "repo": "ncnn-android-deeplabv3plus",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "android",
+                  "deeplabv3plus",
+                  "ncnn",
+                  "peson-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -828,12 +1352,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy YOLOv5 in your web browser with ncnn and webassembly",
+                "homepage": "https://nihui.github.io/ncnn-webassembly-yolov5/",
                 "id": 314200091,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-27T03:42:58Z",
+                "open_issues": 9,
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-yolov5",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "artificial-intelligence",
+                  "chrome",
+                  "cross-platform",
+                  "edge",
+                  "firefox",
+                  "ncnn",
+                  "neural-network",
+                  "object-detection",
+                  "webassembly",
+                  "yolov5"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -844,12 +1384,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy nanodet, the super fast and lightweight object detection, in your web browser with ncnn and webassembly",
+                "homepage": "https://nihui.github.io/ncnn-webassembly-nanodet/",
                 "id": 317457236,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-27T06:25:37Z",
+                "open_issues": 7,
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-nanodet",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "artificial-intelligence",
+                  "chrome",
+                  "cross-platform",
+                  "edge",
+                  "firefox",
+                  "nanodet",
+                  "ncnn",
+                  "neural-network",
+                  "object-detection",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -860,12 +1416,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy SCRFD, an efficient high accuracy face detection approach, in your web browser with ncnn and webassembly",
+                "homepage": "https://nihui.github.io/ncnn-webassembly-scrfd",
                 "id": 367306983,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-27T03:27:20Z",
+                "open_issues": 0,
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-scrfd",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "artificial-intelligence",
+                  "chrome",
+                  "cross-platform",
+                  "edge",
+                  "face-alignment",
+                  "face-detection",
+                  "firefox",
+                  "ncnn",
+                  "neural-network",
+                  "scrfd",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -876,12 +1449,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portrait segmentation in your web browser with ncnn and webassembly",
+                "homepage": "https://nihui.github.io/ncnn-webassembly-portrait-segmentation",
                 "id": 365201647,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-27T03:34:41Z",
+                "open_issues": 0,
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-portrait-segmentation",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "artificial-intelligence",
+                  "chrome",
+                  "cross-platform",
+                  "edge",
+                  "firefox",
+                  "ncnn",
+                  "neural-network",
+                  "segmentation",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -892,12 +1480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy OcrLite in your web browser with ncnn and webassembly",
+                "homepage": null,
                 "id": 369221093,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2021-05-24T07:08:49Z",
+                "open_issues": 0,
                 "owner": "Sg4Dylan",
                 "repo": "ncnn-webassembly-ocrlite",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -908,12 +1501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 347863543,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-03-15T09:34:54Z",
+                "open_issues": 1,
                 "owner": "zineos",
                 "repo": "ncnn-webassembly-blazeface",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -929,12 +1527,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ncnnRay++ is a CMake based integration of raylib and the very popular Tencent ncnn Deep Learning library. ncnn is written in C++ designed (but not only) for edge computing devices. The project depends on the Vulkan SDK (Vulakn is Khronos' API for Graphics and Compute on GPUs).",
+                    "homepage": null,
                     "id": 304664589,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-10-23T14:13:39Z",
+                    "open_issues": 0,
                     "owner": "stjordanis",
                     "repo": "ncnnRay",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:03:56.278Z"
                 }
@@ -954,12 +1557,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",
+                "homepage": null,
                 "id": 243487250,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-18T09:55:53Z",
+                "open_issues": 261,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12339
+                "stars": 12339,
+                "topics": [
+                  "ncnn",
+                  "ocr",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -970,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile-LPR 是一个面向移动端的准商业级车牌识别库，以NCNN作为推理后端，使用DNN作为算法核心，支持多种车牌检测算法，支持车牌识别和车牌颜色识别。",
+                "homepage": null,
                 "id": 249139033,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-02-24T11:33:12Z",
+                "open_issues": 24,
                 "owner": "xiangweizeng",
                 "repo": "mobile-lpr",
-                "stars": 622
+                "stars": 622,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -986,12 +1603,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ncnn example: mask detection: anticonv  face detection: retinaface&&mtcnn&&centerface, track: iou tracking, landmark: zqcnn, recognize: mobilefacenet classifier: mobilenet object detecter: mobilenetssd",
+                "homepage": null,
                 "id": 183336202,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-13T17:48:52Z",
+                "open_issues": 5,
                 "owner": "MirrorYuChen",
                 "repo": "ncnn_example",
-                "stars": 477
+                "stars": 477,
+                "topics": [
+                  "classifier",
+                  "facealigner",
+                  "facedetection",
+                  "facelandmark",
+                  "facerecognition",
+                  "ncnn",
+                  "objectdetection",
+                  "zqlandmark"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1002,12 +1633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSitUp是一个基于姿态估计的开源项目，旨在帮助对姿态估计感兴趣的朋友，能够从零开始搭建一个在android手机上运行的仰卧起坐计数APP。主要的技术难点为如何让计算量较大的人体姿态估计网络流畅的运行在手机端，并且实现仰卧起坐的计数功能。掌握了这个项目的原理之后，可以很方便的迁移到类似的运动，健身APP当中。",
+                "homepage": null,
                 "id": 393653277,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-21T13:25:22Z",
+                "open_issues": 1,
                 "owner": "DL-Practise",
                 "repo": "OpenSitUp",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1018,12 +1654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android paddleocr demo infer by ncnn",
+                "homepage": null,
                 "id": 353877973,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-07-23T07:13:29Z",
+                "open_issues": 14,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_paddleocr",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1034,12 +1675,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The style transfer android example",
+                "homepage": null,
                 "id": 207139986,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-27T06:51:29Z",
+                "open_issues": 4,
                 "owner": "nihui",
                 "repo": "ncnn-android-styletransfer",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "android",
+                  "arm",
+                  "cpu",
+                  "deep-learning",
+                  "gpu",
+                  "ncnn",
+                  "neural-network",
+                  "styletransfer",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1050,12 +1706,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a dehaze / picture enhancement demo using ncnn",
+                "homepage": null,
                 "id": 286681080,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-09-29T06:00:18Z",
+                "open_issues": 3,
                 "owner": "JuZiSYJ",
                 "repo": "ncnn-picture-enhancement",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "andoid",
+                  "dehaze",
+                  "enhancement",
+                  "low-light",
+                  "ncnn",
+                  "underwater",
+                  "unet"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1066,12 +1735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLOP running in Android by ncnn",
+                "homepage": null,
                 "id": 401073308,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-09-01T03:39:25Z",
+                "open_issues": 4,
                 "owner": "EdVince",
                 "repo": "YOLOP-NCNN",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1082,12 +1756,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example on using ncnn with Swift.",
+                "homepage": null,
                 "id": 334057390,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-02-10T12:35:14Z",
+                "open_issues": 0,
                 "owner": "zhuzilin",
                 "repo": "ncnn-swift",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "ncnn",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1098,12 +1780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning to See in the Dark running in Android by ncnn with Raw Camera",
+                "homepage": null,
                 "id": 394232164,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-02-20T11:51:02Z",
+                "open_issues": 0,
                 "owner": "EdVince",
                 "repo": "SID-NCNN",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1114,12 +1801,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "monodepth running in Android by ncnn",
+                "homepage": null,
                 "id": 415934204,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-10-12T09:09:33Z",
+                "open_issues": 1,
                 "owner": "EdVince",
                 "repo": "monodepth-NCNN",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1130,12 +1822,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the C++ version of Seq2Seq with ncnn",
+                "homepage": null,
                 "id": 380677625,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-06-27T12:33:27Z",
+                "open_issues": 0,
                 "owner": "DayBreak-u",
                 "repo": "seq2seq_ncnn",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "chatbot",
+                  "lite",
+                  "mobile",
+                  "ncnn",
+                  "nmt",
+                  "seq2seq"
+                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1146,12 +1850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于ncnn的android端的enet分割",
+                "homepage": null,
                 "id": 250992482,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-03-29T09:21:43Z",
+                "open_issues": 2,
                 "owner": "watersink",
                 "repo": "enet-as-linux",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1162,12 +1871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PiDiNet running in Android by ncnn",
+                "homepage": null,
                 "id": 410474051,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-09-26T10:53:41Z",
+                "open_issues": 3,
                 "owner": "EdVince",
                 "repo": "PiDiNet-NCNN",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -1178,12 +1892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 281580820,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-08-01T04:23:36Z",
+                "open_issues": 1,
                 "owner": "ProLing1994",
                 "repo": "demo_deepsort",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             }
@@ -1205,12 +1924,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a quantization parameter file for ncnn framework int8 inference",
+            "homepage": null,
             "id": 141575117,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-07-29T00:37:43Z",
+            "open_issues": 10,
             "owner": "BUG1989",
             "repo": "caffe-int8-convert-tools",
-            "stars": 517
+            "stars": 517,
+            "topics": [
+              "caffe",
+              "deeplearning-ai",
+              "int8-inference",
+              "ncnn",
+              "quantized-neural-networks"
+            ]
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         },
@@ -1221,12 +1951,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A keras h5df to ncnn model converter",
+            "homepage": null,
             "id": 292645276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-16T16:33:05Z",
+            "open_issues": 18,
             "owner": "MarsTechHAN",
             "repo": "keras2ncnn",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "model-converter",
+              "ncnn",
+              "python",
+              "python3",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         },
@@ -1237,12 +1980,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android demo to use darknet model in ncnn.",
+            "homepage": null,
             "id": 232507932,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-10-29T13:33:45Z",
+            "open_issues": 1,
             "owner": "paleomoon",
             "repo": "darknet-ncnn-android",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "android",
+              "darknet",
+              "darknet2ncnn",
+              "ncnn",
+              "yolo",
+              "yolov3",
+              "yolov3-tiny"
+            ]
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         }
@@ -1259,12 +2015,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ncnn wrapper written in C++ and C# for Windows, MacOS, Linux, iOS and Android",
+            "homepage": null,
             "id": 230869291,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-01-02T18:18:08Z",
+            "open_issues": 4,
             "owner": "takuya-takeuchi",
             "repo": "NcnnDotNet",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "dotnet",
+              "linux",
+              "macos",
+              "ncnn",
+              "neural-network",
+              "uwp",
+              "windows",
+              "xamarin",
+              "xamarin-android",
+              "xamarin-ios"
+            ]
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         },
@@ -1275,12 +2047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python wrapper of ncnn with pybind11",
+            "homepage": null,
             "id": 233879081,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-07T04:12:49Z",
+            "open_issues": 4,
             "owner": "caishanli",
             "repo": "pyncnn",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         },
@@ -1291,12 +2068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS wrapper for NCNN neural inference framework",
+            "homepage": null,
             "id": 270976229,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-03-14T16:12:30Z",
+            "open_issues": 1,
             "owner": "nilseuropa",
             "repo": "ros_ncnn",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         },
@@ -1307,12 +2089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Call ncnn from Fortran",
+            "homepage": null,
             "id": 558462424,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-12-18T10:10:11Z",
+            "open_issues": 1,
             "owner": "mizu-bai",
             "repo": "ncnn-fortran",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         }
@@ -1329,12 +2116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tencent NCNN with added CUDA support",
+            "homepage": null,
             "id": 279161099,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-18T00:39:12Z",
+            "open_issues": 2,
             "owner": "atanmarko",
             "repo": "ncnn-with-cuda",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         }
@@ -1351,12 +2143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "quantize aware training package for NCNN on pytorch",
+            "homepage": null,
             "id": 379188745,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-27T06:59:40Z",
+            "open_issues": 1,
             "owner": "ChenShisen",
             "repo": "ncnnqat",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         }
@@ -1373,12 +2170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A breakdown of NCNN ",
+            "homepage": null,
             "id": 319803310,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-12-28T06:30:44Z",
+            "open_issues": 1,
             "owner": "Zhengtq",
             "repo": "ncnn_breakdown",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
         }
@@ -1387,15 +2189,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:03:56.278Z",
+    "last_updated": "2026-08-29T04:41:50.203Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎  A Collection of Awesome NCNN-based Projects",
+      "homepage": null,
       "id": 271256743,
       "language": null,
+      "license": null,
       "last_commit": "2023-01-05T02:33:23Z",
+      "open_issues": 0,
       "owner": "zchrissirhcz",
       "repo": "awesome-ncnn",
-      "stars": 748
+      "stars": 748,
+      "topics": [
+        "android",
+        "application",
+        "awesome-list",
+        "cnn-inference-engine",
+        "deploy",
+        "examples",
+        "ncnn",
+        "neon",
+        "vulkan"
+      ]
     },
     "original_repository_sha": "715a4d6aad0a0acf8a7e93c07cc022b8599a6610",
     "enhanced_repository": "enhansome/enhansome-ncnn",
