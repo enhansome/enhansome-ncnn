@@ -12,11 +12,12 @@
             "archived": false,
             "id": 95879426,
             "language": "C++",
-            "last_commit": "2026-08-25T03:21:15Z",
+            "last_commit": "2026-08-28T12:35:36Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23756
-          }
+            "stars": 23762
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 95879426,
             "language": "C++",
-            "last_commit": "2026-08-25T03:21:15Z",
+            "last_commit": "2026-08-28T12:35:36Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23756
-          }
+            "stars": 23762
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         }
       ],
       "title": "Overview"
@@ -54,7 +56,8 @@
                 "owner": "EdVince",
                 "repo": "ClothingTransfer-NCNN",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": null,
@@ -76,7 +79,8 @@
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
                 "stars": 7542
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "RangiLyu",
                 "repo": "nanodet",
                 "stars": 6252
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "cmdbug",
                 "repo": "YOLOv5_NCNN",
                 "stars": 1573
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "polarisZhao",
                 "repo": "PFLD-pytorch",
                 "stars": 874
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn-android-yolox",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "DayBreak-u",
                 "repo": "darknet_face_with_landmark",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "sunnyden",
                 "repo": "YOLOV5_NCNN_Android",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_nanodet_hand",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "SyGoing",
                 "repo": "LFFD-with-ncnn",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "HansRen1024",
                 "repo": "PCN-ncnn",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "digital-nomad-cheng",
                 "repo": "Iris_Landmarks_PyTorch",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "Qengineering",
                 "repo": "Face-Mask-Detection-Raspberry-Pi-64-bits",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "791136190",
                 "repo": "ncnn_android_face_vehicle",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "hzq-zjm",
                 "repo": "RobotVision2",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "youkpan",
                 "repo": "hayoou_safe_driving_android",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "yuanluw",
                 "repo": "DBface_ncnn_demo",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "oaup",
                 "repo": "ncnn-android-ultraface",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "immarioo",
                 "repo": "centernet_ncnn",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "DayBreak-u",
                 "repo": "thundernet_ncnn",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "JuZiSYJ",
                 "repo": "centerface-ncnn",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": "General object detection, face detection (and landmark) projects on Android platform.",
@@ -397,8 +421,9 @@
                 "last_commit": "2026-08-16T01:13:46Z",
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16923
-              }
+                "stars": 16925
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -412,8 +437,9 @@
                 "last_commit": "2026-04-13T16:04:51Z",
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3459
-              }
+                "stars": 3460
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "nihui",
                 "repo": "realsr-ncnn-vulkan",
                 "stars": 1213
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
                 "stars": 919
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "nihui",
                 "repo": "srmd-ncnn-vulkan",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "nlzy",
                 "repo": "vapoursynth-waifu2x-ncnn-vulkan",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "tonquer",
                 "repo": "sr-vulkan",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "Kiyamou",
                 "repo": "VapourSynth-SRMD-ncnn-Vulkan",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "media2x",
                 "repo": "waifu2x-ncnn-vulkan-python",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": null,
@@ -539,8 +572,9 @@
                 "last_commit": "2026-05-20T22:21:51Z",
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2030
-              }
+                "stars": 2032
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
                 "stars": 1084
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "nihui",
                 "repo": "dain-ncnn-vulkan",
                 "stars": 545
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -585,7 +621,8 @@
                 "owner": "nihui",
                 "repo": "cain-ncnn-vulkan",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "media2x",
                 "repo": "rife-ncnn-vulkan-python",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": null,
@@ -621,8 +659,9 @@
                 "last_commit": "2024-05-08T16:50:20Z",
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_Android_MoveNet",
-                "stars": 143
-              }
+                "stars": 144
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -637,7 +676,8 @@
                 "owner": "ZtoYtoQ",
                 "repo": "NCNN-PoseEstimation",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -652,7 +692,8 @@
                 "owner": "ZtoYtoQ",
                 "repo": "NCNN_Android_SinglePoseEstimation",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -667,7 +708,8 @@
                 "owner": "defi0x1",
                 "repo": "pose-detect-optimizer",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": null,
@@ -689,7 +731,8 @@
                 "owner": "xiongzhu666",
                 "repo": "Sky-Segmentation-and-Post-processing",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -704,7 +747,8 @@
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_Android_RobustVideoMatting",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -719,7 +763,8 @@
                 "owner": "DayBreak-u",
                 "repo": "SOLOV2_ncnn",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "leeys888",
                 "repo": "ncnn-portrait-segmentation",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_Android_hair",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -763,8 +810,9 @@
                 "last_commit": "2021-02-01T10:00:26Z",
                 "owner": "runrunrun1994",
                 "repo": "ncnn-android-deeplabv3plus",
-                "stars": 28
-              }
+                "stars": 29
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": null,
@@ -786,7 +834,8 @@
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-yolov5",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -801,7 +850,8 @@
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-nanodet",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -816,7 +866,8 @@
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-scrfd",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -831,7 +882,8 @@
                 "owner": "nihui",
                 "repo": "ncnn-webassembly-portrait-segmentation",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -846,7 +898,8 @@
                 "owner": "Sg4Dylan",
                 "repo": "ncnn-webassembly-ocrlite",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -861,7 +914,8 @@
                 "owner": "zineos",
                 "repo": "ncnn-webassembly-blazeface",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "group",
@@ -881,7 +935,8 @@
                     "owner": "stjordanis",
                     "repo": "ncnnRay",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:03:56.278Z"
                 }
               ]
             }
@@ -904,8 +959,9 @@
                 "last_commit": "2026-05-18T09:55:53Z",
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12338
-              }
+                "stars": 12339
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -920,7 +976,8 @@
                 "owner": "xiangweizeng",
                 "repo": "mobile-lpr",
                 "stars": 622
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -935,7 +992,8 @@
                 "owner": "MirrorYuChen",
                 "repo": "ncnn_example",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1008,8 @@
                 "owner": "DL-Practise",
                 "repo": "OpenSitUp",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1024,8 @@
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn_paddleocr",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -980,7 +1040,8 @@
                 "owner": "nihui",
                 "repo": "ncnn-android-styletransfer",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1056,8 @@
                 "owner": "JuZiSYJ",
                 "repo": "ncnn-picture-enhancement",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1072,8 @@
                 "owner": "EdVince",
                 "repo": "YOLOP-NCNN",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1088,8 @@
                 "owner": "zhuzilin",
                 "repo": "ncnn-swift",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1104,8 @@
                 "owner": "EdVince",
                 "repo": "SID-NCNN",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1120,8 @@
                 "owner": "EdVince",
                 "repo": "monodepth-NCNN",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1070,7 +1136,8 @@
                 "owner": "DayBreak-u",
                 "repo": "seq2seq_ncnn",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1152,8 @@
                 "owner": "watersink",
                 "repo": "enet-as-linux",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1168,8 @@
                 "owner": "EdVince",
                 "repo": "PiDiNet-NCNN",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             },
             {
               "node_type": "item",
@@ -1115,7 +1184,8 @@
                 "owner": "ProLing1994",
                 "repo": "demo_deepsort",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
             }
           ],
           "description": null,
@@ -1141,7 +1211,8 @@
             "owner": "BUG1989",
             "repo": "caffe-int8-convert-tools",
             "stars": 517
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1227,8 @@
             "owner": "MarsTechHAN",
             "repo": "keras2ncnn",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1243,8 @@
             "owner": "paleomoon",
             "repo": "darknet-ncnn-android",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         }
       ],
       "title": "Tools"
@@ -1192,7 +1265,8 @@
             "owner": "takuya-takeuchi",
             "repo": "NcnnDotNet",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1281,8 @@
             "owner": "caishanli",
             "repo": "pyncnn",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1297,8 @@
             "owner": "nilseuropa",
             "repo": "ros_ncnn",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1313,8 @@
             "owner": "mizu-bai",
             "repo": "ncnn-fortran",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         }
       ],
       "title": "Wrappers"
@@ -1258,7 +1335,8 @@
             "owner": "atanmarko",
             "repo": "ncnn-with-cuda",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         }
       ],
       "title": "Optimization"
@@ -1279,7 +1357,8 @@
             "owner": "ChenShisen",
             "repo": "ncnnqat",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         }
       ],
       "title": "Training"
@@ -1300,14 +1379,15 @@
             "owner": "Zhengtq",
             "repo": "ncnn_breakdown",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:03:56.278Z"
         }
       ],
       "title": "Source Analysis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:32:19.481Z",
+    "last_updated": "2026-08-29T02:03:56.278Z",
     "original_repository_info": {
       "archived": false,
       "id": 271256743,
