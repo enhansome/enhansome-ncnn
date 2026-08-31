@@ -19,7 +19,7 @@
             "open_issues": 1230,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23767,
+            "stars": 23770,
             "topics": [
               "android",
               "arm-neon",
@@ -61,7 +61,7 @@
             "open_issues": 1230,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23767,
+            "stars": 23770,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7542,
+                "stars": 7543,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6251,
+                "stars": 6252,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -719,7 +719,7 @@
                 "open_issues": 93,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16937,
+                "stars": 16943,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3464,
+                "stars": 3462,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2033,
+                "stars": 2032,
                 "topics": [
                   "dain",
                   "gui",
@@ -1566,7 +1566,7 @@
                 "open_issues": 261,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12340,
+                "stars": 12341,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:53:29.988Z",
+    "last_updated": "2026-08-31T23:10:24.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
