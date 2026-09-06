@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T11:56:47Z",
-            "open_issues": 1246,
+            "open_issues": 1248,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23786,
+            "stars": 23785,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T11:56:47Z",
-            "open_issues": 1246,
+            "open_issues": 1248,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23786,
+            "stars": 23785,
             "topics": [
               "android",
               "arm-neon",
@@ -719,7 +719,7 @@
                 "open_issues": 93,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16970,
+                "stars": 16974,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2037,
+                "stars": 2039,
                 "topics": [
                   "dain",
                   "gui",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:06:11.950Z",
+    "last_updated": "2026-09-06T21:12:03.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
