@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T09:18:14Z",
-            "open_issues": 1244,
+            "last_commit": "2026-09-10T09:23:55Z",
+            "open_issues": 1241,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23796,
+            "stars": 23800,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T09:18:14Z",
-            "open_issues": 1244,
+            "last_commit": "2026-09-10T09:23:55Z",
+            "open_issues": 1241,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23796,
+            "stars": 23800,
             "topics": [
               "android",
               "arm-neon",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6255,
+                "stars": 6258,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -210,7 +210,7 @@
                 "open_issues": 64,
                 "owner": "cmdbug",
                 "repo": "YOLOv5_NCNN",
-                "stars": 1573,
+                "stars": 1572,
                 "topics": [
                   "android",
                   "chineseocr-lite",
@@ -536,7 +536,7 @@
                 "open_issues": 1,
                 "owner": "hzq-zjm",
                 "repo": "RobotVision2",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "cortex-a53",
                   "fatigue-detection",
@@ -719,7 +719,7 @@
                 "open_issues": 93,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 16982,
+                "stars": 16986,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3465,
+                "stars": 3468,
                 "topics": [
                   "amd",
                   "gpu",
@@ -822,7 +822,7 @@
                 "open_issues": 33,
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2041,
+                "stars": 2042,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1088,
+                "stars": 1090,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12342,
+                "stars": 12343,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "DL-Practise",
                 "repo": "OpenSitUp",
-                "stars": 240,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:37:54.960Z",
+    "last_updated": "2026-09-10T21:33:19.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
