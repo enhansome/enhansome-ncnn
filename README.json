@@ -19,7 +19,7 @@
             "open_issues": 1206,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23841,
+            "stars": 23845,
             "topics": [
               "android",
               "arm-neon",
@@ -61,7 +61,7 @@
             "open_issues": 1206,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23841,
+            "stars": 23845,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7545,
+                "stars": 7544,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -715,11 +715,11 @@
                 "id": 235070415,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T06:55:06Z",
+                "last_commit": "2026-09-19T04:17:31Z",
                 "open_issues": 94,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17013,
+                "stars": 17017,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12346,
+                "stars": 12347,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -1796,6 +1796,34 @@
             },
             {
               "node_type": "item",
+              "title": "SeqSeq ncnn",
+              "description": "The C++ version of SeqSeq with ncnn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "the C++ version of Seq2Seq with ncnn",
+                "homepage": null,
+                "id": 380677625,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2021-06-27T12:33:27Z",
+                "open_issues": 0,
+                "owner": "DayBreak-u",
+                "repo": "seq2seq_ncnn",
+                "stars": 24,
+                "topics": [
+                  "chatbot",
+                  "lite",
+                  "mobile",
+                  "ncnn",
+                  "nmt",
+                  "seq2seq"
+                ]
+              },
+              "first_seen": "2026-08-29T02:03:56.278Z"
+            },
+            {
+              "node_type": "item",
               "title": "monodepth-NCNN",
               "description": "Deploy wavelet-monodepth (CVPR 2021 Monocular depth estimation using wavelets for efficiency ) model on Android with ncnn (将wavelet-monodepth的模型搬运到NCNN上，工程里面给了安卓的工程以及以及生成好的app安装包).",
               "children": [],
@@ -1812,34 +1840,6 @@
                 "repo": "monodepth-NCNN",
                 "stars": 23,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:03:56.278Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SeqSeq ncnn",
-              "description": "The C++ version of SeqSeq with ncnn",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "the C++ version of Seq2Seq with ncnn",
-                "homepage": null,
-                "id": 380677625,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2021-06-27T12:33:27Z",
-                "open_issues": 0,
-                "owner": "DayBreak-u",
-                "repo": "seq2seq_ncnn",
-                "stars": 23,
-                "topics": [
-                  "chatbot",
-                  "lite",
-                  "mobile",
-                  "ncnn",
-                  "nmt",
-                  "seq2seq"
-                ]
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
             },
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:34:49.215Z",
+    "last_updated": "2026-09-19T21:24:00.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
