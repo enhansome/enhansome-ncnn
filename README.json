@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-24T13:58:45Z",
-            "open_issues": 1208,
+            "open_issues": 1209,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23869,
+            "stars": 23871,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-24T13:58:45Z",
-            "open_issues": 1208,
+            "open_issues": 1209,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23869,
+            "stars": 23871,
             "topics": [
               "android",
               "arm-neon",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6268,
+                "stars": 6269,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -719,7 +719,7 @@
                 "open_issues": 94,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17042,
+                "stars": 17046,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3476,
+                "stars": 3477,
                 "topics": [
                   "amd",
                   "gpu",
@@ -1220,7 +1220,7 @@
                 "open_issues": 8,
                 "owner": "xiongzhu666",
                 "repo": "Sky-Segmentation-and-Post-processing",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:12:23.160Z",
+    "last_updated": "2026-09-25T22:12:14.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
