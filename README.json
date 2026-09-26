@@ -19,7 +19,7 @@
             "open_issues": 1209,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23871,
+            "stars": 23873,
             "topics": [
               "android",
               "arm-neon",
@@ -61,7 +61,7 @@
             "open_issues": 1209,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23871,
+            "stars": 23873,
             "topics": [
               "android",
               "arm-neon",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6269,
+                "stars": 6270,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -719,7 +719,7 @@
                 "open_issues": 94,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17046,
+                "stars": 17053,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1104,
+                "stars": 1103,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12348,
+                "stars": 12349,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:12:14.034Z",
+    "last_updated": "2026-09-26T21:55:49.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
