@@ -19,7 +19,7 @@
             "open_issues": 1209,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23873,
+            "stars": 23879,
             "topics": [
               "android",
               "arm-neon",
@@ -61,7 +61,7 @@
             "open_issues": 1209,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23873,
+            "stars": 23879,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7546,
+                "stars": 7547,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -719,7 +719,7 @@
                 "open_issues": 94,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17053,
+                "stars": 17056,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -822,7 +822,7 @@
                 "open_issues": 33,
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 924,
+                "stars": 925,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2050,
+                "stars": 2051,
                 "topics": [
                   "dain",
                   "gui",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:55:49.274Z",
+    "last_updated": "2026-09-27T21:59:14.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
