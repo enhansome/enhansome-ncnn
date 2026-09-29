@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-24T13:58:45Z",
-            "open_issues": 1212,
+            "open_issues": 1214,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23882,
+            "stars": 23895,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-24T13:58:45Z",
-            "open_issues": 1212,
+            "open_issues": 1214,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23882,
+            "stars": 23895,
             "topics": [
               "android",
               "arm-neon",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3479,
+                "stars": 3480,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2055,
+                "stars": 2056,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12349,
+                "stars": 12350,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:48:00.561Z",
+    "last_updated": "2026-09-29T22:55:30.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
