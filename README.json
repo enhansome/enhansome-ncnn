@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T13:58:45Z",
-            "open_issues": 1217,
+            "last_commit": "2026-10-01T15:33:05Z",
+            "open_issues": 1219,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23903,
+            "stars": 23907,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T13:58:45Z",
-            "open_issues": 1217,
+            "last_commit": "2026-10-01T15:33:05Z",
+            "open_issues": 1219,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23903,
+            "stars": 23907,
             "topics": [
               "android",
               "arm-neon",
@@ -719,7 +719,7 @@
                 "open_issues": 94,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17060,
+                "stars": 17067,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3481,
+                "stars": 3483,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2055,
+                "stars": 2056,
                 "topics": [
                   "dain",
                   "gui",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:55:54.322Z",
+    "last_updated": "2026-10-01T23:04:27.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
