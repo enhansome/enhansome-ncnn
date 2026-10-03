@@ -1,6 +1,6 @@
 # Awesome-NCNN with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,120 | 🐛 107 | 📅 2026-09-02
 
 [ncnn](https://github.com/tencent/ncnn) ⭐ 23,905 | 🐛 1,223 | 🌐 C++ | 📅 2026-10-01 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
 
@@ -37,7 +37,7 @@ General object detection, face detection (and landmark) projects on Android plat
 
 * [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) ⭐ 7,549 | 🐛 130 | 🌐 Python | 📅 2023-12-29 1MB lightweight face detection model (1MB轻量级人脸检测模型)
 
-* [nanodet](https://github.com/RangiLyu/nanodet) ⭐ 6,270 | 🐛 246 | 🌐 Python | 📅 2024-08-08 NanoDet, a Super fast and lightweight anchor-free object detection model. 🔥Only 1.8mb and run 97FPS on cellphone, with training and NCNN based inference inside.
+* [nanodet](https://github.com/RangiLyu/nanodet) ⭐ 6,271 | 🐛 246 | 🌐 Python | 📅 2024-08-08 NanoDet, a Super fast and lightweight anchor-free object detection model. 🔥Only 1.8mb and run 97FPS on cellphone, with training and NCNN based inference inside.
 
 * [YOLOv5\_NCNN by WZTENG](https://github.com/WZTENG/YOLOv5_NCNN) ⭐ 1,573 | 🐛 64 | 🌐 C++ | 📅 2022-05-17 Android/iOS camera preview with YOLOv5 (移动端目标检测，当前项目使用的是YOLOv5的5s模型，摄像头实时捕获视频流进行检测)
 
@@ -79,21 +79,21 @@ General object detection, face detection (and landmark) projects on Android plat
 
 ### Super Resolution
 
-* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,074 | 🐛 94 | 🌐 C++ | 📅 2026-10-02 Photo/Video/GIF enlargement and Video frame interpolation using machine learning (使用NCNN的图像超分辨率及视频插帧软件)
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,080 | 🐛 95 | 🌐 C++ | 📅 2026-10-02 Photo/Video/GIF enlargement and Video frame interpolation using machine learning (使用NCNN的图像超分辨率及视频插帧软件)
 * [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) ⭐ 3,483 | 🐛 82 | 🌐 C++ | 📅 2026-04-13 waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
-* [realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) ⭐ 1,219 | 🐛 41 | 🌐 C | 📅 2023-03-12 ncnn implementation of Real-World Super-Resolution via Kernel Estimation and Noise Injection super resolution.
+* [realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) ⭐ 1,220 | 🐛 41 | 🌐 C | 📅 2023-03-12 ncnn implementation of Real-World Super-Resolution via Kernel Estimation and Noise Injection super resolution.
 * [Real-CUGAN-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan#real-cugan-ncnn-vulkan) ⭐ 925 | 🐛 33 | 🌐 C | 📅 2023-03-12 A two dimensions anime super resolution project. (二次元动漫超分项目) ncnn implementation of Real-CUGAN converter. Runs fast on Intel / AMD / Nvidia with Vulkan API.
 * [srmd-ncnn-vulkan](https://github.com/nihui/srmd-ncnn-vulkan) ⭐ 351 | 🐛 7 | 🌐 C | 📅 2022-07-28 ncnn implementation of SRMD super resolution.
 * [vapoursynth-waifu2x-ncnn-vulkan](https://github.com/Nlzy/vapoursynth-waifu2x-ncnn-vulkan) ⚠️ Archived Waifu2x filter for VapourSynth
 * [waifu2x-ncnn-vulkan-python](https://github.com/tonquer/waifu2x-ncnn-vulkan-python) ⭐ 57 | 🐛 3 | 🌐 C++ | 📅 2026-09-30 Exporting pyd for python based on waifu2x-ncnn-vulkan (修改waifu2x-ncnn-vulkan项目，导出pyd给python使用)
 * [VapourSynth-SRMD-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan) ⭐ 24 | 🐛 3 | 🌐 C++ | 📅 2023-02-05 SRMD super resolution for VapourSynth
-* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 21,934 | 🐛 134 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
+* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 21,950 | 🐛 134 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
 
 ### Video Frame Interpolation
 
 * [flowframes](https://github.com/n00mkrad/flowframes) ⭐ 2,057 | 🐛 179 | 🌐 Python | 📅 2026-05-20 Flowframes Windows GUI for video interpolation - Supports DAIN NCNN as well as RIFE Pytorch and NCNN implementations.
 
-* [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) ⭐ 1,103 | 🐛 47 | 🌐 C | 📅 2024-01-02 ncnn implementation of RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
+* [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) ⭐ 1,104 | 🐛 47 | 🌐 C | 📅 2024-01-02 ncnn implementation of RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
 
 * [dain-ncnn-vulkan](https://github.com/nihui/dain-ncnn-vulkan) ⭐ 544 | 🐛 27 | 🌐 C | 📅 2023-10-29 ncnn implementation of DAIN, Depth-Aware Video Frame Interpolation.
 

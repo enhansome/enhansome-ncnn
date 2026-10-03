@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6270,
+                "stars": 6271,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -716,10 +716,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T02:05:31Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17074,
+                "stars": 17080,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -793,7 +793,7 @@
                 "open_issues": 41,
                 "owner": "nihui",
                 "repo": "realsr-ncnn-vulkan",
-                "stars": 1219,
+                "stars": 1220,
                 "topics": [
                   "amd",
                   "gpu",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:58:07.080Z",
+    "last_updated": "2026-10-03T22:05:44.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
