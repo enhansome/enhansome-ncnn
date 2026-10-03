@@ -1523,7 +1523,7 @@
                 {
                   "node_type": "item",
                   "title": "An fork of the original: https://github.com/stjordanis/ncnnRay",
-                  "description": null,
+                  "description": "stjordanis/ncnnRay",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:54:33.906Z",
+    "last_updated": "2026-10-03T04:58:07.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",

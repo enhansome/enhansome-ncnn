@@ -1,10 +1,10 @@
 # Awesome-NCNN with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,716 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
-[ncnn](https://github.com/tencent/ncnn) ⭐ 23,905 | 🐛 1,223 | 🌐 C++ | 📅 2026-10-01 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 747 | 🐛 0 | 📅 2023-01-05 lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
+[ncnn](https://github.com/tencent/ncnn) ⭐ 23,905 | 🐛 1,223 | 🌐 C++ | 📅 2026-10-01 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
 
-[ncnn](https://github.com/tencent/ncnn) ⭐ 23,905 | 🐛 1,223 | 🌐 C++ | 📅 2026-10-01 是一个为手机端极致优化的高性能神经网络前向计算框架。[本仓库](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 747 | 🐛 0 | 📅 2023-01-05 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！
+[ncnn](https://github.com/tencent/ncnn) ⭐ 23,905 | 🐛 1,223 | 🌐 C++ | 📅 2026-10-01 是一个为手机端极致优化的高性能神经网络前向计算框架。[本仓库](https://github.com/zchrissirhcz/awesome-ncnn) 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！
 
 ## Contents
 
@@ -87,7 +87,7 @@ General object detection, face detection (and landmark) projects on Android plat
 * [vapoursynth-waifu2x-ncnn-vulkan](https://github.com/Nlzy/vapoursynth-waifu2x-ncnn-vulkan) ⚠️ Archived Waifu2x filter for VapourSynth
 * [waifu2x-ncnn-vulkan-python](https://github.com/tonquer/waifu2x-ncnn-vulkan-python) ⭐ 57 | 🐛 3 | 🌐 C++ | 📅 2026-09-30 Exporting pyd for python based on waifu2x-ncnn-vulkan (修改waifu2x-ncnn-vulkan项目，导出pyd给python使用)
 * [VapourSynth-SRMD-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan) ⭐ 24 | 🐛 3 | 🌐 C++ | 📅 2023-02-05 SRMD super resolution for VapourSynth
-* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 21,931 | 🐛 134 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
+* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 21,934 | 🐛 134 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
 
 ### Video Frame Interpolation
 
@@ -217,4 +217,4 @@ Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
