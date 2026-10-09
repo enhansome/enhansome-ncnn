@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T13:21:18Z",
-            "open_issues": 1229,
+            "last_commit": "2026-10-09T16:00:45Z",
+            "open_issues": 1227,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23923,
+            "stars": 23928,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T13:21:18Z",
-            "open_issues": 1229,
+            "last_commit": "2026-10-09T16:00:45Z",
+            "open_issues": 1227,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23923,
+            "stars": 23928,
             "topics": [
               "android",
               "arm-neon",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6274,
+                "stars": 6273,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -210,7 +210,7 @@
                 "open_issues": 64,
                 "owner": "cmdbug",
                 "repo": "YOLOv5_NCNN",
-                "stars": 1573,
+                "stars": 1572,
                 "topics": [
                   "android",
                   "chineseocr-lite",
@@ -716,10 +716,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T02:05:31Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17094,
+                "stars": 17102,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2058,
+                "stars": 2059,
                 "topics": [
                   "dain",
                   "gui",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:42:43.605Z",
+    "last_updated": "2026-10-09T23:09:02.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
