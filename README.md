@@ -1,10 +1,10 @@
 # Awesome-NCNN with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,986 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,475 | 🐛 105 | 📅 2026-09-02
 
-[ncnn](https://github.com/tencent/ncnn) ⭐ 23,956 | 🐛 1,243 | 🌐 C++ | 📅 2026-10-14 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
+[ncnn](https://github.com/tencent/ncnn) ⭐ 23,960 | 🐛 1,251 | 🌐 C++ | 📅 2026-10-14 is a high-performance neural network inference framework optimized for the mobile platform. [This repo](https://github.com/zchrissirhcz/awesome-ncnn) lists some awesome ncnn-based projects. Welcome Star & Fork & Pull Requests!
 
-[ncnn](https://github.com/tencent/ncnn) ⭐ 23,956 | 🐛 1,243 | 🌐 C++ | 📅 2026-10-14 是一个为手机端极致优化的高性能神经网络前向计算框架。[本仓库](https://github.com/zchrissirhcz/awesome-ncnn) 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！
+[ncnn](https://github.com/tencent/ncnn) ⭐ 23,960 | 🐛 1,251 | 🌐 C++ | 📅 2026-10-14 是一个为手机端极致优化的高性能神经网络前向计算框架。[本仓库](https://github.com/zchrissirhcz/awesome-ncnn) 收集了基于ncnn的很棒的项目。欢迎 Star & Fork & Pull Request 一键三连！
 
 ## Contents
 
@@ -35,7 +35,7 @@
 
 General object detection, face detection (and landmark) projects on Android platform.
 
-* [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) ⭐ 7,549 | 🐛 130 | 🌐 Python | 📅 2023-12-29 1MB lightweight face detection model (1MB轻量级人脸检测模型)
+* [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) ⭐ 7,548 | 🐛 130 | 🌐 Python | 📅 2023-12-29 1MB lightweight face detection model (1MB轻量级人脸检测模型)
 
 * [nanodet](https://github.com/RangiLyu/nanodet) ⭐ 6,277 | 🐛 246 | 🌐 Python | 📅 2024-08-08 NanoDet, a Super fast and lightweight anchor-free object detection model. 🔥Only 1.8mb and run 97FPS on cellphone, with training and NCNN based inference inside.
 
@@ -45,7 +45,7 @@ General object detection, face detection (and landmark) projects on Android plat
 
 * [ncnn-android-nanodet](https://github.com/nihui/ncnn-android-nanodet) ⭐ 421 | 🐛 13 | 🌐 C++ | 📅 2026-05-27 NanoDet object detection android project with Android ndk camera for best efficiency. Tutorial: [android camera nanodet 实时物体检测的高效实现总结](https://zhuanlan.zhihu.com/p/356991989)
 
-* [ncnn-android-yolox](https://github.com/FeiGeChuanShu/ncnn-android-yolox) ⭐ 319 | 🐛 17 | 🌐 C++ | 📅 2022-05-25 YOLOX detection android demo based on NCNN.
+* [ncnn-android-yolox](https://github.com/FeiGeChuanShu/ncnn-android-yolox) ⭐ 320 | 🐛 17 | 🌐 C++ | 📅 2022-05-25 YOLOX detection android demo based on NCNN.
 
 * [darknet\_face\_with\_landmark](https://github.com/ouyanghuiyu/darknet_face_with_landmark) ⭐ 210 | 🐛 27 | 🌐 C | 📅 2020-07-29  借鉴AlexeyAB大神的 darknet 做适量修改，用于人脸检测以及关键点检测,支持ncnn推理
 
@@ -79,21 +79,21 @@ General object detection, face detection (and landmark) projects on Android plat
 
 ### Super Resolution
 
-* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,112 | 🐛 95 | 🌐 C++ | 📅 2026-10-02 Photo/Video/GIF enlargement and Video frame interpolation using machine learning (使用NCNN的图像超分辨率及视频插帧软件)
-* [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) ⭐ 3,483 | 🐛 82 | 🌐 C++ | 📅 2026-04-13 waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,117 | 🐛 95 | 🌐 C++ | 📅 2026-10-02 Photo/Video/GIF enlargement and Video frame interpolation using machine learning (使用NCNN的图像超分辨率及视频插帧软件)
+* [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) ⭐ 3,484 | 🐛 82 | 🌐 C++ | 📅 2026-04-13 waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 * [realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) ⭐ 1,219 | 🐛 41 | 🌐 C | 📅 2023-03-12 ncnn implementation of Real-World Super-Resolution via Kernel Estimation and Noise Injection super resolution.
 * [Real-CUGAN-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan#real-cugan-ncnn-vulkan) ⭐ 929 | 🐛 33 | 🌐 C | 📅 2023-03-12 A two dimensions anime super resolution project. (二次元动漫超分项目) ncnn implementation of Real-CUGAN converter. Runs fast on Intel / AMD / Nvidia with Vulkan API.
 * [srmd-ncnn-vulkan](https://github.com/nihui/srmd-ncnn-vulkan) ⭐ 352 | 🐛 7 | 🌐 C | 📅 2022-07-28 ncnn implementation of SRMD super resolution.
 * [vapoursynth-waifu2x-ncnn-vulkan](https://github.com/Nlzy/vapoursynth-waifu2x-ncnn-vulkan) ⚠️ Archived Waifu2x filter for VapourSynth
 * [waifu2x-ncnn-vulkan-python](https://github.com/tonquer/waifu2x-ncnn-vulkan-python) ⭐ 57 | 🐛 3 | 🌐 C++ | 📅 2026-09-30 Exporting pyd for python based on waifu2x-ncnn-vulkan (修改waifu2x-ncnn-vulkan项目，导出pyd给python使用)
 * [VapourSynth-SRMD-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan) ⭐ 22 | 🐛 4 | 🌐 C++ | 📅 2023-02-05 SRMD super resolution for VapourSynth
-* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 22,252 | 🐛 134 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
+* [media2x/waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python) ⭐ 17 | 🐛 2 | 🌐 CMake | 📅 2022-08-07 A Python FFI of nihui/waifu2x-ncnn-vulkan achieved with SWIG. This project only wraps the original Waifu2x class and is now used by [video2x](https://github.com/k4yt3x/video2x) ⭐ 22,263 | 🐛 134 | 🌐 C++ | 📅 2026-03-07 and [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) ⚠️ Archived.
 
 ### Video Frame Interpolation
 
-* [flowframes](https://github.com/n00mkrad/flowframes) ⭐ 2,062 | 🐛 179 | 🌐 Python | 📅 2026-05-20 Flowframes Windows GUI for video interpolation - Supports DAIN NCNN as well as RIFE Pytorch and NCNN implementations.
+* [flowframes](https://github.com/n00mkrad/flowframes) ⭐ 2,063 | 🐛 179 | 🌐 Python | 📅 2026-05-20 Flowframes Windows GUI for video interpolation - Supports DAIN NCNN as well as RIFE Pytorch and NCNN implementations.
 
-* [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) ⭐ 1,109 | 🐛 47 | 🌐 C | 📅 2024-01-02 ncnn implementation of RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
+* [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) ⭐ 1,111 | 🐛 47 | 🌐 C | 📅 2024-01-02 ncnn implementation of RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
 
 * [dain-ncnn-vulkan](https://github.com/nihui/dain-ncnn-vulkan) ⭐ 543 | 🐛 27 | 🌐 C | 📅 2023-10-29 ncnn implementation of DAIN, Depth-Aware Video Frame Interpolation.
 
@@ -115,7 +115,7 @@ General object detection, face detection (and landmark) projects on Android plat
 
 * [Sky-Segmentation-and-Post-processing](https://github.com/xiongzhu666/Sky-Segmentation-and-Post-processing) ⭐ 245 | 🐛 8 | 🌐 C++ | 📅 2023-11-22 C++ implementation for Sky segmentation and post-processing for the paper <https://arxiv.org/abs/2006.10172> with ncnn.
 
-* [RobustVideoMatting](https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting) ⭐ 160 | 🐛 12 | 🌐 C++ | 📅 2024-08-23 Android human segmentation by ncnn.
+* [RobustVideoMatting](https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting) ⭐ 159 | 🐛 12 | 🌐 C++ | 📅 2024-08-23 Android human segmentation by ncnn.
 
 * [SOLOV2\_ncnn](https://github.com/DayBreak-u/SOLOV2_ncnn) ⭐ 77 | 🐛 8 | 🌐 C++ | 📅 2021-06-27 The C++ version of solov2 with ncnn
 
@@ -145,7 +145,7 @@ General object detection, face detection (and landmark) projects on Android plat
 
 ### Other
 
-* [chineseocr\_lite](https://github.com/ouyanghuiyu/chineseocr_lite) ⭐ 12,349 | 🐛 262 | 🌐 C++ | 📅 2026-05-18 Super lightweight OCR for Chinese characters, supporting horizontal recognition, support ncnn inference (超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理)
+* [chineseocr\_lite](https://github.com/ouyanghuiyu/chineseocr_lite) ⭐ 12,347 | 🐛 262 | 🌐 C++ | 📅 2026-05-18 Super lightweight OCR for Chinese characters, supporting horizontal recognition, support ncnn inference (超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理)
 
 * [mobile-lpr](https://github.com/xiangweizeng/mobile-lpr) ⭐ 625 | 🐛 24 | 🌐 C++ | 📅 2021-02-24 一个面向移动端的准商业级车牌识别库
 
@@ -161,7 +161,7 @@ General object detection, face detection (and landmark) projects on Android plat
 
 * [YOLOP-NCNN](https://github.com/EdVince/YOLOP-NCNN) ⭐ 55 | 🐛 4 | 🌐 C++ | 📅 2021-09-01 *You Only Look Once for Panopitic Driving Perception*, Android app by ncnn (车辆检测+路面分割+车道线分割 三合一的网络, Android Demo).
 
-* [ncnn-swift](https://github.com/zhuzilin/ncnn-swift) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2021-02-10 A project of using ncnn in Swift for modern iOS development, with image classification & object detection (yolov5) examples.
+* [ncnn-swift](https://github.com/zhuzilin/ncnn-swift) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2021-02-10 A project of using ncnn in Swift for modern iOS development, with image classification & object detection (yolov5) examples.
 
 * [SID-NCNN](https://github.com/EdVince/SID-NCNN) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2022-02-20 *Learning to See in the Dark* running in Android by ncnn with Raw Camera (CVPR2018'Learning to See in the Dark, 暗光成像，用ncnn在安卓上进行简单的部署实现)
 
@@ -179,7 +179,7 @@ General object detection, face detection (and landmark) projects on Android plat
 
 Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn封装等相关项目)
 
-* [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools) ⭐ 516 | 🐛 10 | 🌐 Python | 📅 2020-07-29 Caffe INT8 Quantization convert tool
+* [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools) ⭐ 515 | 🐛 10 | 🌐 Python | 📅 2020-07-29 Caffe INT8 Quantization convert tool
 
 * [keras2ncnn](https://github.com/MarsTechHAN/keras2ncnn) ⭐ 88 | 🐛 18 | 🌐 Python | 📅 2022-09-16: A keras h5df to ncnn model converter
 
@@ -189,13 +189,13 @@ Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn�
 
 * [NcnnDotNet](https://github.com/takuya-takeuchi/NcnnDotNet) ⭐ 94 | 🐛 4 | 🌐 C# | 📅 2023-01-02 ncnn .NET wrapper written in C++ and C# for Windows, MacOS and Linux
 
-* [pyncnn](https://github.com/caishanli/pyncnn) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2021-01-07 python wrapper of ncnn with pybind11 (Note: now updated in [ncnn official](https://github.com/tencent/ncnn) ⭐ 23,956 | 🐛 1,243 | 🌐 C++ | 📅 2026-10-14 repo's python directory)
+* [pyncnn](https://github.com/caishanli/pyncnn) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2021-01-07 python wrapper of ncnn with pybind11 (Note: now updated in [ncnn official](https://github.com/tencent/ncnn) ⭐ 23,960 | 🐛 1,251 | 🌐 C++ | 📅 2026-10-14 repo's python directory)
 
 * [ros\_ncnn](https://github.com/nilseuropa/ros_ncnn) ⭐ 65 | 🐛 1 | 🌐 C++ | 📅 2021-03-14 ROS wrapper for NCNN neural inference framework
 
 * [ncnn-fortran](https://github.com/mizu-bai/ncnn-fortran) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2022-12-18 Call ncnn from Fortran via mix compiling
 
-* [ncnn-lite](https://github.com/nullptr-leo/ncnn-lite) NCNN lite without C++ support (Note: There is [ncnn C API](https://github.com/Tencent/ncnn/blob/master/src/c_api.h) ⭐ 23,956 | 🐛 1,243 | 🌐 C++ | 📅 2026-10-14 now)
+* [ncnn-lite](https://github.com/nullptr-leo/ncnn-lite) NCNN lite without C++ support (Note: There is [ncnn C API](https://github.com/Tencent/ncnn/blob/master/src/c_api.h) ⭐ 23,960 | 🐛 1,251 | 🌐 C++ | 📅 2026-10-14 now)
 
 ## Optimization
 
@@ -207,7 +207,7 @@ Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn�
 
 ## Source Analysis
 
-* [ncnn\_breakdown - by All Star](https://github.com/Zhengtq/ncnn_breakdown) ⭐ 43 | 🐛 1 | 🌐 C++ | 📅 2020-12-28 A breakdown of NCNN (学习ncnn的过程的一个记录)
+* [ncnn\_breakdown - by All Star](https://github.com/Zhengtq/ncnn_breakdown) ⭐ 42 | 🐛 1 | 🌐 C++ | 📅 2020-12-28 A breakdown of NCNN (学习ncnn的过程的一个记录)
 
 * [ncnn初探 - by OFShare](https://www.zhihu.com/column/c_1320446932913762304) ncnn源码解析, 带你进入底层实现的点点滴滴.
 
@@ -217,4 +217,4 @@ Model convert tools and wrapper/bindings of ncnn (模型转换工具、对ncnn�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
