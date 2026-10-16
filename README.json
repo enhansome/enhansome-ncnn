@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T23:24:59Z",
-            "open_issues": 1251,
+            "open_issues": 1258,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23960,
+            "stars": 23966,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T23:24:59Z",
-            "open_issues": 1251,
+            "open_issues": 1258,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23960,
+            "stars": 23966,
             "topics": [
               "android",
               "arm-neon",
@@ -715,11 +715,11 @@
                 "id": 235070415,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T02:05:31Z",
+                "last_commit": "2026-10-16T12:54:44Z",
                 "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17117,
+                "stars": 17119,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3484,
+                "stars": 3487,
                 "topics": [
                   "amd",
                   "gpu",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T22:07:08.054Z",
+    "last_updated": "2026-10-16T21:59:01.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
