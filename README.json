@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T02:51:52Z",
-            "open_issues": 1272,
+            "last_commit": "2026-10-22T08:39:36Z",
+            "open_issues": 1268,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23986,
+            "stars": 23990,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T02:51:52Z",
-            "open_issues": 1272,
+            "last_commit": "2026-10-22T08:39:36Z",
+            "open_issues": 1268,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23986,
+            "stars": 23990,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7547,
+                "stars": 7548,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6278,
+                "stars": 6277,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -210,7 +210,7 @@
                 "open_issues": 64,
                 "owner": "cmdbug",
                 "repo": "YOLOv5_NCNN",
-                "stars": 1572,
+                "stars": 1571,
                 "topics": [
                   "android",
                   "chineseocr-lite",
@@ -275,7 +275,7 @@
                 "id": 347101655,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-20T08:12:19Z",
+                "last_commit": "2026-10-22T12:02:45Z",
                 "open_issues": 13,
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
@@ -719,7 +719,7 @@
                 "open_issues": 94,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17130,
+                "stars": 17135,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3490,
+                "stars": 3492,
                 "topics": [
                   "amd",
                   "gpu",
@@ -822,7 +822,7 @@
                 "open_issues": 33,
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 931,
+                "stars": 932,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 179,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2068,
+                "stars": 2069,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1680,7 +1680,7 @@
                 "id": 207139986,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-20T08:16:21Z",
+                "last_commit": "2026-10-22T12:02:56Z",
                 "open_issues": 4,
                 "owner": "nihui",
                 "repo": "ncnn-android-styletransfer",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:14:37.655Z",
+    "last_updated": "2026-10-22T22:14:12.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
