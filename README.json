@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:41:16Z",
+            "last_commit": "2026-10-25T15:59:07Z",
             "open_issues": 1275,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23994,
+            "stars": 23997,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:41:16Z",
+            "last_commit": "2026-10-25T15:59:07Z",
             "open_issues": 1275,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23994,
+            "stars": 23997,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7549,
+                "stars": 7550,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -251,7 +251,7 @@
                 "open_issues": 48,
                 "owner": "polarisZhao",
                 "repo": "PFLD-pytorch",
-                "stars": 877,
+                "stars": 878,
                 "topics": [
                   "face-landmark-detection",
                   "ncnn",
@@ -716,10 +716,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-17T06:14:38Z",
-                "open_issues": 94,
+                "open_issues": 96,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17143,
+                "stars": 17146,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -793,7 +793,7 @@
                 "open_issues": 41,
                 "owner": "nihui",
                 "repo": "realsr-ncnn-vulkan",
-                "stars": 1221,
+                "stars": 1222,
                 "topics": [
                   "amd",
                   "gpu",
@@ -900,7 +900,7 @@
                 "id": 347913833,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-24T11:03:12Z",
+                "last_commit": "2026-10-25T07:20:11Z",
                 "open_issues": 3,
                 "owner": "tonquer",
                 "repo": "sr-vulkan",
@@ -978,7 +978,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-20T22:21:51Z",
-                "open_issues": 180,
+                "open_issues": 181,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
                 "stars": 2072,
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1115,
+                "stars": 1117,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:28:59.408Z",
+    "last_updated": "2026-10-25T21:38:29.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
