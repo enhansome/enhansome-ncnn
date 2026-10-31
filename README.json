@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T11:26:42Z",
-            "open_issues": 1291,
+            "open_issues": 1292,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24012,
+            "stars": 24014,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T11:26:42Z",
-            "open_issues": 1291,
+            "open_issues": 1292,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24012,
+            "stars": 24014,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7548,
+                "stars": 7549,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6279,
+                "stars": 6278,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3497,
+                "stars": 3499,
                 "topics": [
                   "amd",
                   "gpu",
@@ -928,7 +928,7 @@
                 "id": 274454033,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2023-02-05T16:41:53Z",
+                "last_commit": "2026-10-31T15:24:37Z",
                 "open_issues": 4,
                 "owner": "Kiyamou",
                 "repo": "VapourSynth-SRMD-ncnn-Vulkan",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1122,
+                "stars": 1124,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12354,
+                "stars": 12355,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2056,7 +2056,7 @@
             "open_issues": 4,
             "owner": "caishanli",
             "repo": "pyncnn",
-            "stars": 72,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:54:51.041Z",
+    "last_updated": "2026-10-31T22:24:22.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
