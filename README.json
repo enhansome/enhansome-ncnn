@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T08:46:25Z",
-            "open_issues": 1306,
+            "last_commit": "2026-11-03T12:18:56Z",
+            "open_issues": 1309,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24022,
+            "stars": 24023,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T08:46:25Z",
-            "open_issues": 1306,
+            "last_commit": "2026-11-03T12:18:56Z",
+            "open_issues": 1309,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24022,
+            "stars": 24023,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7550,
+                "stars": 7551,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -279,7 +279,7 @@
                 "open_issues": 13,
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "android",
                   "lightweight",
@@ -306,7 +306,7 @@
                 "open_issues": 17,
                 "owner": "FeiGeChuanShu",
                 "repo": "ncnn-android-yolox",
-                "stars": 320,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
@@ -719,7 +719,7 @@
                 "open_issues": 96,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17177,
+                "stars": 17181,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -978,10 +978,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-20T22:21:51Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2080,
+                "stars": 2081,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1126,
+                "stars": 1127,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12355,
+                "stars": 12356,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -1591,7 +1591,7 @@
                 "open_issues": 25,
                 "owner": "xiangweizeng",
                 "repo": "mobile-lpr",
-                "stars": 625,
+                "stars": 626,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:03:56.278Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:30:13.068Z",
+    "last_updated": "2026-11-03T23:56:11.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
