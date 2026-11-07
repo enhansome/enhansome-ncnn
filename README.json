@@ -15,7 +15,7 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T12:12:39Z",
+            "last_commit": "2026-11-06T23:47:02Z",
             "open_issues": 1295,
             "owner": "Tencent",
             "repo": "ncnn",
@@ -57,7 +57,7 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T12:12:39Z",
+            "last_commit": "2026-11-06T23:47:02Z",
             "open_issues": 1295,
             "owner": "Tencent",
             "repo": "ncnn",
@@ -279,7 +279,7 @@
                 "open_issues": 13,
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "android",
                   "lightweight",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3499,
+                "stars": 3500,
                 "topics": [
                   "amd",
                   "gpu",
@@ -822,7 +822,7 @@
                 "open_issues": 33,
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 182,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2084,
+                "stars": 2086,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1127,
+                "stars": 1128,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12354,
+                "stars": 12353,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2179,7 +2179,7 @@
             "open_issues": 1,
             "owner": "Zhengtq",
             "repo": "ncnn_breakdown",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T02:03:56.278Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:41:57.039Z",
+    "last_updated": "2026-11-07T22:38:26.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
@@ -2201,7 +2201,7 @@
       "open_issues": 0,
       "owner": "zchrissirhcz",
       "repo": "awesome-ncnn",
-      "stars": 746,
+      "stars": 747,
       "topics": [
         "android",
         "application",
