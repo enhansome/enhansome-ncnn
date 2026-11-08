@@ -15,8 +15,8 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T23:47:02Z",
-            "open_issues": 1295,
+            "last_commit": "2026-11-08T10:13:46Z",
+            "open_issues": 1297,
             "owner": "Tencent",
             "repo": "ncnn",
             "stars": 24030,
@@ -57,8 +57,8 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T23:47:02Z",
-            "open_issues": 1295,
+            "last_commit": "2026-11-08T10:13:46Z",
+            "open_issues": 1297,
             "owner": "Tencent",
             "repo": "ncnn",
             "stars": 24030,
@@ -279,7 +279,7 @@
                 "open_issues": 13,
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "android",
                   "lightweight",
@@ -716,10 +716,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T11:01:49Z",
-                "open_issues": 96,
+                "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17195,
+                "stars": 17199,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -981,7 +981,7 @@
                 "open_issues": 182,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2086,
+                "stars": 2087,
                 "topics": [
                   "dain",
                   "gui",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12353,
+                "stars": 12352,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:38:26.609Z",
+    "last_updated": "2026-11-08T22:45:06.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
