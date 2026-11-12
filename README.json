@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T10:48:27Z",
-            "open_issues": 1305,
+            "last_commit": "2026-11-11T12:35:13Z",
+            "open_issues": 1311,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24035,
+            "stars": 24041,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T10:48:27Z",
-            "open_issues": 1305,
+            "last_commit": "2026-11-11T12:35:13Z",
+            "open_issues": 1311,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24035,
+            "stars": 24041,
             "topics": [
               "android",
               "arm-neon",
@@ -279,7 +279,7 @@
                 "open_issues": 13,
                 "owner": "nihui",
                 "repo": "ncnn-android-nanodet",
-                "stars": 420,
+                "stars": 419,
                 "topics": [
                   "android",
                   "lightweight",
@@ -719,7 +719,7 @@
                 "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17215,
+                "stars": 17217,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3501,
+                "stars": 3502,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 182,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2090,
+                "stars": 2091,
                 "topics": [
                   "dain",
                   "gui",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12353,
+                "stars": 12355,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -1933,7 +1933,7 @@
             "open_issues": 10,
             "owner": "BUG1989",
             "repo": "caffe-int8-convert-tools",
-            "stars": 515,
+            "stars": 514,
             "topics": [
               "caffe",
               "deeplearning-ai",
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:58:35.086Z",
+    "last_updated": "2026-11-12T01:26:58.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
@@ -2201,7 +2201,7 @@
       "open_issues": 0,
       "owner": "zchrissirhcz",
       "repo": "awesome-ncnn",
-      "stars": 747,
+      "stars": 748,
       "topics": [
         "android",
         "application",
