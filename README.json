@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T12:35:13Z",
-            "open_issues": 1311,
+            "open_issues": 1319,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24041,
+            "stars": 24046,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T12:35:13Z",
-            "open_issues": 1311,
+            "open_issues": 1319,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24041,
+            "stars": 24046,
             "topics": [
               "android",
               "arm-neon",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6278,
+                "stars": 6279,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -719,7 +719,7 @@
                 "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17217,
+                "stars": 17223,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -761,7 +761,7 @@
                 "open_issues": 82,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3502,
+                "stars": 3504,
                 "topics": [
                   "amd",
                   "gpu",
@@ -981,7 +981,7 @@
                 "open_issues": 182,
                 "owner": "n00mkrad",
                 "repo": "flowframes",
-                "stars": 2091,
+                "stars": 2093,
                 "topics": [
                   "dain",
                   "gui",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -2159,37 +2159,10 @@
         }
       ],
       "title": "Training"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ncnn_breakdown - by All Star",
-          "description": "A breakdown of NCNN (学习ncnn的过程的一个记录)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A breakdown of NCNN ",
-            "homepage": null,
-            "id": 319803310,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2020-12-28T06:30:44Z",
-            "open_issues": 1,
-            "owner": "Zhengtq",
-            "repo": "ncnn_breakdown",
-            "stars": 43,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:03:56.278Z"
-        }
-      ],
-      "title": "Source Analysis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:26:58.550Z",
+    "last_updated": "2026-11-13T00:06:08.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
