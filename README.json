@@ -15,11 +15,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T14:04:35Z",
-            "open_issues": 1323,
+            "last_commit": "2026-11-26T01:31:31Z",
+            "open_issues": 1331,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24096,
+            "stars": 24100,
             "topics": [
               "android",
               "arm-neon",
@@ -57,11 +57,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T14:04:35Z",
-            "open_issues": 1323,
+            "last_commit": "2026-11-26T01:31:31Z",
+            "open_issues": 1331,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24096,
+            "stars": 24100,
             "topics": [
               "android",
               "arm-neon",
@@ -146,7 +146,7 @@
                 "open_issues": 130,
                 "owner": "Linzaer",
                 "repo": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
-                "stars": 7553,
+                "stars": 7554,
                 "topics": [
                   "arm",
                   "face-detection",
@@ -251,7 +251,7 @@
                 "open_issues": 48,
                 "owner": "polarisZhao",
                 "repo": "PFLD-pytorch",
-                "stars": 880,
+                "stars": 879,
                 "topics": [
                   "face-landmark-detection",
                   "ncnn",
@@ -719,7 +719,7 @@
                 "open_issues": 95,
                 "owner": "AaronFeng753",
                 "repo": "Waifu2x-Extension-GUI",
-                "stars": 17263,
+                "stars": 17272,
                 "topics": [
                   "anime",
                   "anime4k",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12366,
+                "stars": 12367,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2162,7 +2162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:59:11.824Z",
+    "last_updated": "2026-11-26T02:07:27.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
