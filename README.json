@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-26T15:11:17Z",
-            "open_issues": 1329,
+            "open_issues": 1331,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24102,
+            "stars": 24109,
             "topics": [
               "android",
               "arm-neon",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-26T15:11:17Z",
-            "open_issues": 1329,
+            "open_issues": 1331,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24102,
+            "stars": 24109,
             "topics": [
               "android",
               "arm-neon",
@@ -173,7 +173,7 @@
                 "open_issues": 246,
                 "owner": "RangiLyu",
                 "repo": "nanodet",
-                "stars": 6282,
+                "stars": 6284,
                 "topics": [
                   "anchor-free",
                   "android",
@@ -761,7 +761,7 @@
                 "open_issues": 83,
                 "owner": "nihui",
                 "repo": "waifu2x-ncnn-vulkan",
-                "stars": 3521,
+                "stars": 3522,
                 "topics": [
                   "amd",
                   "gpu",
@@ -822,7 +822,7 @@
                 "open_issues": 33,
                 "owner": "nihui",
                 "repo": "realcugan-ncnn-vulkan",
-                "stars": 931,
+                "stars": 930,
                 "topics": [
                   "amd",
                   "gpu",
@@ -1009,7 +1009,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1139,
+                "stars": 1141,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -1566,7 +1566,7 @@
                 "open_issues": 262,
                 "owner": "DayBreak-u",
                 "repo": "chineseocr_lite",
-                "stars": 12369,
+                "stars": 12367,
                 "topics": [
                   "ncnn",
                   "ocr",
@@ -2162,7 +2162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:06:59.331Z",
+    "last_updated": "2026-11-28T01:52:01.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎  A Collection of Awesome NCNN-based Projects",
